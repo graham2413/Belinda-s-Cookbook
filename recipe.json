@@ -1,0 +1,336 @@
+{
+"ham":{
+    "name" : "Small Ham Rolls",
+    "recheader": "Small Ham Rolls",
+    "src" : "./IMG/ham.jpg",
+    "alt": "ham",
+
+  
+    "prep1": "15 mins",
+    "prep2": "Serves 4",
+    "prep3": "$10 (always rounded up to nearest dollar)",
+ 
+
+    "ingredients":{
+    "ingred1":"<li>8 oz Cream Cheese --> $1.96 </li>",
+    "ingred2":"<li>Chives --> $1.98</li>",
+    "ingred3":"<li>Garlic Salt --> $0.98 </li>",
+    "ingred4":"<li>1 Tablespoon of Mayo --> $1.28</li>",
+    "ingred5":"<li>Ham --> $2.98 </li>"
+    },
+    "links":[
+    "https://www.walmart.com/ip/Philadelphia-Original-Cream-Cheese-8-oz-Brick/10295545",
+    "https://www.walmart.com/ip/Organic-Fresh-Chives-5oz/403009315?wl13=699&selectedSellerId=0",
+    "https://www.walmart.com/ip/Great-Value-Garlic-Salt-5-7-oz/339769224?athbdg=L1200",
+    "https://www.walmart.com/ip/Great-Value-Mayo-15-fl-oz/17056889",
+    "https://www.walmart.com/ip/Oscar-Mayer-Ham-and-Cheese-Loaf-Lunch-Meat-16-oz-Package/10292645"
+    ],
+    "directions":{
+    "dir1":"<li>Mix all ingredients together</li>",
+    "dir2":"<li>Place ham on rolls</li>",
+    "dir3":"<li>Spread cream cheese mixture on top of rolls </li>",
+    "dir4":"<li>Spread butter on top of rolls</li>",
+    "dir5":"<li>Bake in oven on 350 until bread has golden color </li>"
+},
+    "learn1":"https://lundsandbyerlys.com/mini-baked-ham-sandwiches/"
+},
+    
+"sausage":{
+    "name" : "Sausage Balls",
+    "recheader": "Sausage Balls",
+    "src" : "./IMG/saus.jpg",
+    "alt": "sausage balls",
+
+  
+    "prep1": "20 mins",
+    "prep2": "Serves 5",
+    "prep3": " $8 (always rounded up to nearest dollar)",
+ 
+
+    "ingredients":{
+    "ingred1":"<li>1 lb ground sausage --> $3.32</li>",
+    "ingred2":"<li>1 cup shredded sharp cheese --> $2.26</li>",
+    "ingred3":"<li>2 cups of Biscuit mix --> $1.88</li>",
+    "ingred4":"<li>1/2 cup of water</li>"
+    },
+
+   "links":[
+    "https://www.walmart.com/ip/Odom-s-Tennessee-Pride-Mild-Breakfast-Sausage-Roll-16-OZ/10293166",
+    "https://www.walmart.com/ip/Sargento-Off-the-Block-Sharp-Cheddar-Fine-Cut-Shredded-Cheese-8-oz-StandUp-Bag/43434667",
+    "https://www.walmart.com/ip/Red-Lobster-Cheddar-Bay-Biscuit-Mix-11-36-oz/32183361?athbdg=L1200",
+    "https://en.wikipedia.org/wiki/Water"
+   ],
+
+    "directions":{
+    "dir1":"<li>Mix all ingredients together</li>",
+    "dir2":"<li>Shape into 2 inch balls </li>",
+    "dir3":"<li>Place on a greased cookie sheet</li>",
+    "dir4":"<li>Bake at 400 until brown</li>"
+},
+    "learn1":"https://www.thekitchenmagpie.com/sausage-balls-recipe-classic-bisquick-sausage-balls/"
+},
+"artichoke":{
+    "name" : "Hot Artichoke Dip",
+    "recheader": "Hot Artichoke Dip",
+    "src" : "./IMG/art.jpg",
+    "alt": "Hot Artichoke Dip",
+
+  
+    "prep1": "35 mins",
+    "prep2": "Serves 3",
+    "prep3": " $6 (always rounded up to nearest dollar)",
+ 
+
+    "ingredients":{
+    "ingred1":"<li>2 cans artichoke (drained- chopped) --> $1.92</li>",
+    "ingred2":"<li>1 cup mayo --> $1.28</li>",
+    "ingred3":"<li>1 cup of parmesean cheese --> $2.36</li>"
+    },
+
+   "links":[
+       "https://www.walmart.com/ip/Great-Value-Quartered-Artichoke-Hearts-13-75-oz-Can/940387142",
+        "https://www.walmart.com/ip/Great-Value-Mayo-15-fl-oz/17056889",
+        "https://www.walmart.com/ip/Great-Value-Grated-Parmesan-and-Romano-Cheese-8-oz/181548595"
+   ],
+
+    "directions":{
+    "dir1":"<li>Mix all ingredients together</li>",
+    "dir2":"<li>Bake at 350 for 30 minutes</li>"
+},
+    "learn1":"https://www.food.com/recipe/hot-artichoke-dip-33251"
+},
+"spaghetti":{
+    "name" : "Spaghetti",
+    "recheader": "Spaghetti",
+    "src" : "./IMG/spag.jpg",
+    "alt": "Spaghetti",
+
+    "prep1": "35 mins",
+    "prep2": "Serves 4",
+    "prep3": " 14 (always rounded up to nearest dollar)",
+
+    "ingredients":{
+    "ingred1":"<li>1/2 Pound lean ground beef --> $3.97</li>",
+    "ingred2":"<li>1/2 cup chopped onion --> $0.94</li>",
+    "ingred3":"<li>1 clove minced garlic --> $2.08</li>",
+    "ingred4":"<li>1 16-ounce can of tomatoes, cut up --> $0.98</li>",
+    "ingred5":"<li>1/3 cup tomato paste --> $0.72</li>",
+    "ingred6":"<li>1/4 cup water</li>",
+    "ingred7":"<li>1/2 teaspoon of crushed, dried basil --> $0.98</li>",
+    "ingred8":"<li>6 ounces spaghetti --> $1.98</li>",
+    "ingred9":"<li>Salt and Pepper --> $1.56</li>"
+    },
+
+    "links":[
+        "https://www.walmart.com/ip/All-Natural-73-Lean-27-Fat-Lean-Ground-Beef/15136790?athbdg=L1600",
+        "https://www.walmart.com/ip/White-Onions-each/51259208",
+        "https://www.walmart.com/ip/Great-Value-Minced-Garlic-in-Extra-Virgin-Olive-Oil-8-oz/131236350",
+        "https://www.walmart.com/ip/Hunt-s-Diced-Tomatoes-100-Natural-Tomatoes-14-5-Oz/10295073",
+        "https://www.walmart.com/ip/Hunt-s-Tomato-Paste-100-Natural-Tomatoes-6-Oz/10295082",
+        "https://en.wikipedia.org/wiki/Water",
+        "https://www.walmart.com/ip/Great-Value-Kosher-Basil-Leaves-0-8-Oz/330313658",
+        "https://www.walmart.com/ip/Barilla-Gluten-Free-Spaghetti-Pasta-12-oz/32247485",
+        "https://www.walmart.com/ip/Great-Value-Black-Pepper-Iodized-Salt-5-25-oz/820711625"
+    ],
+
+    "directions":{
+    "dir1":"<li>In large pan mix meat, onions, and garlic until the meat is no longer pink (drain the fat).</li>",
+    "dir2":"<li>Stir in tomatoes, tomato paste, water, basil, 1/4 teaspoon of salt and pepper (1/4 each).</li>",
+    "dir3": "<li>Bring to boiling, then reduce the heat</li>",
+    "dir4":"<li>Cover and simmer for 30 minutes, stir on occasion</li>",
+    "dir5":"<li>Cook spaghetti according to package directions</li>"
+},
+    "learn1":"https://www.inspiredtaste.net/38940/spaghetti-with-meat-sauce-recipe/"
+},
+"chilli":{
+    "name" : "Chilli",
+    "recheader": "Chilli",
+    "src" : "./IMG/chilli.jpg",
+    "alt": "Chilli",
+
+    "prep1": "3 hours",
+    "prep2": "Serves 6-8",
+    "prep3": " $13 (always rounded up to nearest dollar)",
+
+    "ingredients":{
+    "ingred1":"<li>1 1/2 Pound lean ground beef --> $3.97</li>",
+    "ingred2":"<li>1 chopped onion --> $.94</li>",
+    "ingred3":"<li>1 chopped small green bell peper --> $.80</li>",
+    "ingred4":"<li>2 minced garlic cloves --> $2.45</li>",
+    "ingred5":"<li>2 16-ounce cans red kidney beans --> $0.62</li>",
+    "ingred6":"<li>2 14.5-ounce cans of diced tomatoes --> $0.64</li>",
+    "ingred7":"<li>2 to 3 tablespoons of chilli powder --> $0.98</li>",
+    "ingred8":"<li>1 teaspoon salt and pepper (1 each) --> $1.56</li>",
+    "ingred9":"<li>1 teaspoon ground cumin --> $0.57</li>"
+    },
+
+    "links":[
+        "https://www.walmart.com/ip/All-Natural-73-Lean-27-Fat-Lean-Ground-Beef/15136790?athbdg=L1600",
+        "https://www.walmart.com/ip/White-Onions-each/51259208",
+        "https://www.walmart.com/ip/Fresh-Green-Bell-Pepper-1-Each/44390945?athbdg=L1200",
+        "https://www.walmart.com/ip/Spice-World-Minced-Garlic-Jar-8-oz/10320871",
+        "https://www.walmart.com/ip/Great-Value-Dark-Red-Kidney-Beans-15-5-oz-Can/10534045",
+        "https://www.walmart.com/ip/Great-Value-Petite-Diced-Tomatoes-in-Tomato-Juice-14-5-Oz/10416105?athbdg=L1200",
+        "https://www.walmart.com/ip/Great-Value-Chili-Powder-3-oz/157643393",
+        "https://www.walmart.com/ip/Great-Value-Black-Pepper-Iodized-Salt-5-25-oz/820711625",
+        "https://www.walmart.com/ip/Great-Value-Kosher-Ground-Cumin-2-5-Oz/985501095?athbdg=L1200"
+    ],
+
+    "directions":{
+    "dir1":"<li>Cook first 4 ingredients in skillet at medium heat</li>",
+    "dir2":"<li>Stir until beef is not pink anymore, then drain</li>",
+    "dir3": "<li>Place in slower cooker and stir in remaining ingredients</li>",
+    "dir4":"<li>Cook at high 3 hours</li>"
+},
+    "learn1":"https://www.thewholesomedish.com/the-best-classic-chili/"
+},
+"taco":{
+    "name" : "Taco Soup",
+    "recheader": "Taco Soup",
+    "src" : "./IMG/ts.jpg",
+    "alt": "Taco Soup",
+
+    "prep1": "1 hour",
+    "prep2": "Serves 4-6",
+    "prep3": " $13 (always rounded up to nearest dollar)",
+
+    "ingredients":{
+    "ingred1":"<li>2 lbs ground beef --> $3.97</li>",
+    "ingred2":"<li>2 cans of mild rotel --> $0.98</li>",
+    "ingred3":"<li>2 cans diced tomatoes --> $0.64</li>",
+    "ingred4":"<li>2 cans shoepeg corn --> $1.58</li>",
+    "ingred5":"<li>1 can pinto beans --> $0.62</li>",
+    "ingred6":"<li>1 can navy beans --> $0.62</li>",
+    "ingred7":"<li>1 can black beans --> $0.62</li>",
+    "ingred8":"<li>6 oz can of tomato sauce --> $0.32</li>",
+    "ingred9":"<li>2 packages of taco seasoning --> $0.78</li>",
+    "ingred10":"<li>2 packages of ranch dressing --> $2.86</li>"
+    },
+
+    "links":[
+        "https://www.walmart.com/ip/All-Natural-73-Lean-27-Fat-Lean-Ground-Beef/15136790?athbdg=L1600",
+        "https://www.walmart.com/ip/ROTEL-Original-Diced-Tomatoes-and-Green-Chilies-10-oz/10308581?athbdg=L1200",
+        "https://www.walmart.com/ip/ROTEL-Original-Diced-Tomatoes-and-Green-Chilies-10-oz/10308581?athbdg=L1200",
+        "https://www.walmart.com/ip/Green-Giant-White-Shoepeg-Corn-11-oz-Can/10319344",
+        "https://www.walmart.com/ip/Great-Value-Pinto-Beans-15-5-oz-Can/10534043",
+        "https://www.walmart.com/ip/Great-Value-Navy-Bean-15-5-oz-Can/22002644?athbdg=L1200",
+        "https://www.walmart.com/ip/Great-Value-Black-Beans-15-25-oz-Can/10534038?athbdg=L1200",
+        "https://www.walmart.com/ip/Great-Value-Tomato-Sauce-8-oz/10415487",
+        "https://www.walmart.com/ip/Old-El-Paso-Original-Taco-Seasoning-Mix-Packet-1-oz/10813458",
+        "https://www.walmart.com/ip/Hidden-Valley-Original-Ranch-Salad-Dressing-Topping-Gluten-Free-16-oz-Bottle/10451460?athbdg=L1200"
+    ],
+
+    "directions":{
+    "dir1":"<li>Brown meat and drain</li>",
+    "dir2":"<li>Mix all together and put in crockpot for one hour on stovetop</li>",
+    "dir3": "<li>Serve with sour cream and shredded cheddar cheese</li>"
+},
+    "learn1":"https://www.cookingclassy.com/taco-soup/"
+},
+"poundcake":{
+    "name" : "Pound Cake",
+    "recheader": "Pound Cake",
+    "src" : "./IMG/pound.jpg",
+    "alt": "Pound Cake",
+
+    "prep1": "45 mins",
+    "prep2": "Serves 8-10",
+    "prep3": "$7 (always rounded up to nearest dollar)",
+
+    "ingredients":{
+    "ingred1":"<li>1 box of Duncan Hines Butter Cake Mix --> $1 </li>",
+    "ingred2":"<li>4 eggs --> $0.92</li>",
+    "ingred3":"<li>1 cup sour cream --> $1</li>",
+    "ingred4":"<li>1/2 cup of sugar --> $1.47</li>",
+    "ingred5":"<li>1/4 cup of vegetable oil --> $2.42</li>"
+    },
+    "links":[
+        "https://www.walmart.com/ip/Duncan-Hines-Classic-Butter-Golden-Cake-Mix-15-25-Oz/46298099",
+        "https://www.walmart.com/ip/Great-Value-Large-White-Eggs-6-Count/172144435",
+        "https://www.walmart.com/ip/Great-Value-All-Natural-Sour-Cream-16-oz-Tub/12335111?athbdg=L1200",  
+        "https://www.walmart.com/ip/Domino-Premium-Pure-Cane-Granulated-Sugar-1-lb-Box/10291744",
+        "https://www.walmart.com/ip/Great-Value-Vegetable-Oil-48-fl-oz/10451002?athbdg=L1200"
+    ],
+
+    "directions":{
+    "dir1":"<li>Preheat oven to 325</li>",
+    "dir2":"<li>Mix all ingredients together</li>",
+    "dir3": "<li>Bake at 325 for 45 minutes</li>"
+},
+    "learn1":"https://preppykitchen.com/pound-cake/"
+},
+"cccake":{
+    "name" : "Chocolate Chip Chocolate Cake",
+    "recheader": "Chocolate Chip Chocolate Cake",
+    "src" : "./IMG/ccake.jpg",
+    "alt": "Chocolate Chip Chocolate Cake",
+
+    "prep1": "1 hour",
+    "prep2": "Serves 6-8",
+    "prep3": " $10 (always rounded up to nearest dollar)",
+
+    "ingredients":{
+    "ingred1":"<li>1 box of Devils Food Cake Cake Mix --> $1</li>",
+    "ingred2":"<li>1 1g chocolate instant pudding --> $1.28</li>",
+    "ingred3":"<li>1 cup sour cream --> $1</li>",
+    "ingred4":"<li>4 eggs --> $.92</li>",
+    "ingred5":"<li>1/2 cup of vegetable oil --> $2.42</li>",
+    "ingred6":"<li>12 oz chocolate chips --> $1.74</li>",
+    "ingred7":"<li>Sprinkles --> $1.48</li>"
+    },
+
+    "links":[
+        "https://www.walmart.com/ip/Duncan-Hines-Classic-Devils-Food-Chocolate-Cake-Mix-15-25-Oz/46357047",
+        "https://www.walmart.com/ip/Jell-O-Chocolate-Instant-Pudding-Pie-Filling-Mix-5-9-oz-Box/13812807",
+        "https://www.walmart.com/ip/Great-Value-All-Natural-Sour-Cream-16-oz-Tub/12335111?athbdg=L1600",
+        "https://www.walmart.com/ip/Great-Value-Large-White-Eggs-6-Count/172144435",
+        "https://www.walmart.com/ip/Great-Value-Vegetable-Oil-48-fl-oz/10451002?athbdg=L1200",
+        "https://www.walmart.com/ip/Great-Value-Milk-Chocolate-Chips-11-5-Oz-Bag/858746232?athbdg=L1600",
+        "https://www.walmart.com/ip/Great-Value-Decorating-Rainbow-Sprinkles-2-7-oz/518871038?athbdg=L1200"
+    ],
+
+    "directions":{
+    "dir1":"<li>Preheat oven to 325</li>",
+    "dir2":"<li>Mix all ingredients together and pour into a lightly sprayed pan</li>",
+    "dir3": "<li>Bake at 325 for 50-60 minutes</li>"
+},
+    "learn1":"https://sallysbakingaddiction.com/chocolate-chip-cookie-layer-cake/"
+},
+"funfetti":{
+    "name" : "Funfetti",
+    "recheader": "Funfetti Cookies",
+    "src" : "./IMG/funfetti.jpg",
+    "alt": "Funfetti cookies",
+
+    "prep1": "1 hour",
+    "prep2": "Makes 2 dozen cookies",
+    "prep3": " $9 (always rounded up to nearest dollar)",
+
+    "ingredients":{
+    "ingred1":"<li>1 box of Funfetti Cake Mix --> $1</li>",
+    "ingred2":"<li>1 teaspoon baking powder --> $1.12</li>",
+    "ingred3":"<li>2 eggs --> $0.92</li>",
+    "ingred4":"<li>1/2 cup of vegetable oil --> $2.42</li>",
+    "ingred5":"<li>1/2 teaspoon of vanilla --> $1.98</li>",
+    "ingred6":"<li>1/2 cup rainbow sprinkles --> $1.48</li>"
+    },
+
+    "links":[
+       "https://www.walmart.com/ip/Pillsbury-15-25-oz-Funfetti-Cake/434820646",
+       "https://www.walmart.com/ip/Great-Value-Double-Acting-Baking-Powder-8-1-oz/16627955",
+       "https://www.walmart.com/ip/Great-Value-Large-White-Eggs-6-Count/172144435",
+       "https://www.walmart.com/ip/Great-Value-Vegetable-Oil-48-fl-oz/10451002?athbdg=L1200",
+       "https://www.walmart.com/ip/Great-Value-Pure-Vanilla-Extract-1-fl-oz/21368021",
+       "https://www.walmart.com/ip/Great-Value-Decorating-Rainbow-Sprinkles-2-7-oz/518871038?athbdg=L1200"
+    ],
+
+    "directions":{
+    "dir1":"<li>Preheat oven to 350</li>",
+    "dir2":"<li>Mix all ingredients together, except sprinkles</li>",
+    "dir3": "<li>Mix sprinkles in last</li>",
+    "dir4": "<li>Bake 8-10 mins</li>"
+},
+    "learn1":"https://bromabakery.com/funfetti-cookies/"
+}
+
+}

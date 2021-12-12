@@ -1,0 +1,90 @@
+<!-- This is a template html page for each recipe, to be populated
+by JSON file and JavaScript.  Some elemnts will be same on each page,
+and are hard coded to shorten overall code.
+----------------------------------
+----------------------------------
+----------------------------------
+-->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="author" content="Graham Norris">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.1/normalize.min.css" integrity="sha512-NhSC1YmyruXifcj/KFRWoC561YpHpc5Jtzgvbuzx5VozKpWvQ+4nXhPdFgmx8xqexRcpAglTj9sIBWINXa8x5w==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <title></title>
+    <link rel="shortcut icon" type="image/png" href="./IMG/fav.png"/>
+    <link rel="stylesheet" href="./CSS/styles.css">
+</head>
+
+<body>
+    <header>
+        <nav>
+            <ul>
+
+                <a href="index.html"><li>
+                    <img alt="home button" id= "foodicon" src= "./IMG/transparency.png"/>
+                </li>
+                </a>
+                <a href="#ci"><li class="nav-li">About</li></a>
+                <a href="#prep"><li class="nav-li">Prep</li></a>
+                <a href="#ingred"><li class="nav-li">Ingredients</li></a>
+                <a href="#dir"><li class="nav-li">Directions</li></ul></a>
+
+            </ul>
+           
+        </nav>
+    </header>
+
+<section class="not-nav">
+<h1 class="rec-header"></h1>
+    
+<h1 class="hidden">Not a valid recipe. Return home and try again.</h1>
+
+<img id= "food-pic"/>
+
+
+<div role="listbox">
+    <ul id="prep">
+        <li id="ct"><u><strong>Cook Time:</u> </strong></li>
+        <li id="ts"><u><strong>Total Servings:</u> </strong></li>
+        <li id="tc"><u><strong>Total Cost:</u></strong></li>
+    </ul>
+</div>
+
+
+<section class="rec-cont">
+<div role="listbox" class="ingredients">
+   <h2 id="ingred"><u>Ingredients</u></h2>
+   
+    <ul>
+    </ul>
+</div>
+</section>
+
+
+<section class="rec-cont">
+<div role="listbox" class="directions">
+    <h2 id="dir"><u>Directions</u></h2>
+     <ol>
+     </ol>
+ </div>
+</section>
+</section>
+
+<a id="learn">Click me for a different recipe!</a>
+
+
+
+<div role="contentinfo" id="footer">
+        
+    <h2 class="contact-header">Contact Information</h2> 
+        <div role="contentinfo" id="ci">
+            <p> <u>Email:</u> christian.graham.norris@gmail.com </p>
+            <p><u>Alternate Email:</u> cgnorri2@go.olemiss.edu</p>
+</div>
+<script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
+<script src="recipe.js"></script>
+</body>
+</html>
